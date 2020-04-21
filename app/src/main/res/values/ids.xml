@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnOK" type="id" />
+    <item name="endtDateCalendar" type="id" />
+    <item name="startDateCalendar" type="id" />
+    <item name="chooseEndDate" type="id" />
+    <item name="chooseStartDate" type="id" />
+</resources>
